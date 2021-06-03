@@ -1,0 +1,49 @@
+{
+  "name": "frenchtech-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@maxflex/v-number": "^1.0.9",
+    "animated-number-vue": "^1.0.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.5.0",
+    "bootstrap-vue": "^2.21.2",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "leaflet": "^1.7.1",
+    "leaflet-defaulticon-compatibility": "^0.1.1",
+    "node-sass": "^6.0.0",
+    "sass-loader": "10.1.1",
+    "v-odometer": "^2.0.1",
+    "vue": "^2.6.12",
+    "vue-axios": "^3.2.4",
+    "vue-chartjs": "^3.5.1",
+    "vue-fuse": "^3.0.0",
+    "vue-instantsearch": "^1.7.0",
+    "vue-router": "^3.5.1",
+    "vue2-leaflet": "^2.7.0",
+    "vue2-leaflet-markercluster": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "^4.5.13",
+    "@vue/cli-service": "^3.3.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.26.5",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
